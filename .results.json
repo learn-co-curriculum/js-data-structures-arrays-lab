@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 2,
+    "start": "2021-04-07T23:26:36.012Z",
+    "end": "2021-04-07T23:26:36.024Z",
+    "duration": 12
+  },
+  "tests": [
+    {
+      "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "fullTitle": "index.js drivers is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/js-data-structures-arrays-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: expect is not defined\n    at Context.<anonymous> (test/indexTest.js:4:7)\n    at processImmediate (internal/timers.js:456:21)",
+        "message": "expect is not defined",
+        "multiple": [
+          {
+            "multiple": "ReferenceError: expect is not defined"
+          }
+        ]
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "fullTitle": "index.js drivers is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/js-data-structures-arrays-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: expect is not defined\n    at Context.<anonymous> (test/indexTest.js:4:7)\n    at processImmediate (internal/timers.js:456:21)",
+        "message": "expect is not defined",
+        "multiple": [
+          {
+            "multiple": "ReferenceError: expect is not defined"
+          }
+        ]
+      }
+    },
+    {
+      "title": "\"before each\" hook for \"appends a driver to the end of the drivers array\"",
+      "fullTitle": "index.js Array functions \"before each\" hook for \"appends a driver to the end of the drivers array\"",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/js-data-structures-arrays-lab/test/indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: drivers is not defined\n    at Context.<anonymous> (test/indexTest.js:10:7)\n    at processImmediate (internal/timers.js:456:21)",
+        "message": "drivers is not defined",
+        "multiple": [
+          {
+            "multiple": "ReferenceError: drivers is not defined"
+          }
+        ]
+      }
+    }
+  ],
+  "passes": []
+}
