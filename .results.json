@@ -1,0 +1,74 @@
+{
+  "stats": {
+    "suites": 6,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-04-19T19:52:04.590Z",
+    "end": "2022-04-19T19:52:04.821Z",
+    "duration": 231
+  },
+  "tests": [
+    {
+      "title": "appends pet \"Odie\" to the end of the pets array",
+      "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "prepends a pet to the beginning of the pets array",
+      "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "removes the last pet from the pets array",
+      "fullTitle": "index.js Array functions removeLast removes the last pet from the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "removes the First pet from the pets array",
+      "fullTitle": "index.js Array functions removeFirst removes the First pet from the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "appends pet \"Odie\" to the end of the pets array",
+      "fullTitle": "index.js Array functions append appends pet \"Odie\" to the end of the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "prepends a pet to the beginning of the pets array",
+      "fullTitle": "index.js Array functions prepend prepends a pet to the beginning of the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "removes the last pet from the pets array",
+      "fullTitle": "index.js Array functions removeLast removes the last pet from the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "removes the First pet from the pets array",
+      "fullTitle": "index.js Array functions removeFirst removes the First pet from the pets array",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
