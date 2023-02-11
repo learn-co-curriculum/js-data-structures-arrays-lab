@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-11-22T01:40:48.668Z",
-    "end": "2021-11-22T01:40:48.994Z",
-    "duration": 326
+    "start": "2023-02-11T02:16:12.795Z",
+    "end": "2023-02-11T02:16:13.128Z",
+    "duration": 333
   },
   "tests": [
     {
@@ -62,14 +62,14 @@
     {
       "title": "removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeLastDriver() removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the first driver from the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeFirstDriver() removes the first driver from the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
@@ -129,14 +129,14 @@
     {
       "title": "removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeLastDriver() removes the last driver in the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the first driver from the drivers array and returns a new array, leaving the drivers array unchanged",
       "fullTitle": "index.js Array functions removeFirstDriver() removes the first driver from the drivers array and returns a new array, leaving the drivers array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
